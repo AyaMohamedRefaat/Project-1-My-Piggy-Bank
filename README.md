@@ -2,4 +2,3 @@
 
 | **Full name** | Aya Mohamed Refaat Nagib |
 | **Email** | ayamohamedrefaat24@gmail.com |
-| **Group** | G11 |
